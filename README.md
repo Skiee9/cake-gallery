@@ -7,7 +7,7 @@ Developed a responsive photo gallery web application to showcase a collection of
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/photo-gallery.git
+   git clone https://github.com/skiee9/photo-gallery.git
    ```
 2. Navigate to the project folder:
    ```sh
